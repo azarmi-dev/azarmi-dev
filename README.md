@@ -20,7 +20,7 @@ class SajjadAzarmi:
         
     def skills(self):
         return {
-            "languages": ["Python", "JavaScript", "SQL"],
+            "languages": ["Python", "SQL"],
             "frameworks": ["Django", "FastAPI", "DRF"],
             "databases": ["PostgreSQL", "MongoDB", "Redis"],
             "tools": ["Docker", "Git", "Linux", "Nginx"]
@@ -36,7 +36,6 @@ class SajjadAzarmi:
 
 ### 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -63,7 +62,7 @@ class SajjadAzarmi:
 
 ## 📂 Featured Projects
 
-### 🔷 [Veronika](https://github.com/azarmi-dev/Veronika)
+### 🔷 [Veronica](https://github.com/azarmi-dev/Veronica)
 A robust backend application built with **Django** and **FastAPI**. This project demonstrates modern architecture patterns, RESTful API design, and best practices for building scalable microservices.
 
 **Tech Stack:** Python · Django · FastAPI · PostgreSQL · Docker
