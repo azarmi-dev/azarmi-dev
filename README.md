@@ -131,7 +131,7 @@ I'm always interested in:
 **Reach out through:**
 - 💼 [LinkedIn](https://linkedin.com/saji_azarmi)
 - 🐦 [Twitter](https://twitter.com/saji_azarmi)
-- 📧 Email: [the.azarmi@gmail.com](mailto:saji.azarmi@gmail.com)
+- 📧 Email: [saji.azarmi@gmail.com](mailto:saji.azarmi@gmail.com)
 - 💻 [GitHub](https://github.com/saji-azarmi)
 
 ---
