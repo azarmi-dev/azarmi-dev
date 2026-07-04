@@ -1,4 +1,4 @@
-# 🚀 Saji Azarmi
+# 🚀 Sajjad Azarmi
 
 > Backend -> Devops -> Cloud | Python Enthusiast | Problem Solver
 
