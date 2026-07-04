@@ -1,10 +1,10 @@
 # 🚀 Sajjad Azarmi
 
-> Full-Stack Backend Developer | Python Enthusiast | Problem Solver
+> Backend -> Devops -> Cloud | Python Enthusiast | Problem Solver
 
-[![GitHub followers](https://img.shields.io/github/followers/azarmi-dev?style=social)](https://github.com/azarmi-dev)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com)
+[![GitHub followers](https://img.shields.io/github/followers/saji-azarmi?style=social)](https://github.com/saji-azarmi)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/saji_azarmi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/saji_azarmi)
 
 ---
 
@@ -62,7 +62,7 @@ class SajjadAzarmi:
 
 ## 📂 Featured Projects
 
-### 🔷 [Veronica](https://github.com/azarmi-dev/Veronica)
+### 🔷 [Veronica](https://github.com/saji-azarmi/Veronica)
 A robust backend application built with **Django** and **FastAPI**. This project demonstrates modern architecture patterns, RESTful API design, and best practices for building scalable microservices.
 
 **Tech Stack:** Python · Django · FastAPI · PostgreSQL · Docker
@@ -74,16 +74,16 @@ A robust backend application built with **Django** and **FastAPI**. This project
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=azarmi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=saji-azarmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azarmi-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saji-azarmi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 ### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=azarmi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saji-azarmi&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 ---
 
@@ -129,10 +129,10 @@ I'm always interested in:
 - 📧 Networking with fellow developers
 
 **Reach out through:**
-- 💼 [LinkedIn](https://linkedin.com)
-- 🐦 [Twitter](https://twitter.com)
-- 📧 Email: [the.azarmi@gmail.com](mailto:the.azarmi@gmail.com)
-- 💻 [GitHub](https://github.com/azarmi-dev)
+- 💼 [LinkedIn](https://linkedin.com/saji_azarmi)
+- 🐦 [Twitter](https://twitter.com/saji_azarmi)
+- 📧 Email: [the.azarmi@gmail.com](mailto:saji.azarmi@gmail.com)
+- 💻 [GitHub](https://github.com/saji-azarmi)
 
 ---
 
@@ -166,6 +166,6 @@ I'm always interested in:
 
 Made with ❤️ by **Sajjad Azarmi**
 
-![](https://komarev.com/ghpvc/?username=azarmi-dev&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=saji-azarmi&color=blue&style=for-the-badge)
 
 </div>
